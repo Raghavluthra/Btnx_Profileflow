@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BtnxProfileApp",
   "resources": {
-    "hash": "sha256-se4i93/Tw0ce5dVQumCy3Yw2d39Ujvf0V2m5w2Wwhqg=",
+    "hash": "sha256-ELZusYg4db9nDzH3i690rZoUEMn6/MAsToY5wWDyC94=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.ljpzz9yf9n.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -212,10 +212,10 @@
       "mscorlib.wasm": "sha256-masKveCdoRSahF99doEQk7H3YN2wHLVIE4M/Zu8OoD8=",
       "netstandard.wasm": "sha256-z1EJOmgVhSpTopn7Tek/0P//MKGF1I3NUD/sh4oLnwY=",
       "System.Private.CoreLib.wasm": "sha256-tuIWpR30u0OoEVtv4pXZ47mEpI2AmFBIyYFPnqDZZfw=",
-      "BtnxProfileApp.wasm": "sha256-4KT0SBgUlKmB4F9MGOnUGY7EP9ofI5jwqcPuOJfsu70="
+      "BtnxProfileApp.wasm": "sha256-qW6o2xaguXKYvPQwzV0gn5Zghfczk1s5g/SbywQlr4I="
     },
     "pdb": {
-      "BtnxProfileApp.pdb": "sha256-lm9d/6FNBgA75AairMU8waQRobing0AvRJtFsBCNhdM="
+      "BtnxProfileApp.pdb": "sha256-2AdDYZsgfP8efO3+s5VsigTzm6tzLnZeXWVNnCAhwnM="
     }
   },
   "cacheBootResources": true,

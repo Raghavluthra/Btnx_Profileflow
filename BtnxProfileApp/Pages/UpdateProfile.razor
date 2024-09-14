@@ -5,14 +5,14 @@
 
 <h3>Update Profile</h3>
 
-<!-- Input field for entering the profile ID -->
+
 <div class="form-group">
     <label>Enter Profile ID: </label>
     <InputText @bind-Value="enteredId" class="form-control" />
     <button class="btn btn-primary mt-2" @onclick="FetchProfile">Fetch Profile</button>
 </div>
 
-<!-- Display error messages if any -->
+
 @if (!string.IsNullOrEmpty(errorMessage))
 {
     <div class="alert alert-danger mt-3">
@@ -20,7 +20,7 @@
     </div>
 }
 
-<!-- Display form only if profile data is available -->
+
 @if (profile.Id > 0)
 {
     <EditForm Model="profile" OnValidSubmit="HandleSubmit">
@@ -69,7 +69,7 @@
     private string errorMessage = string.Empty;
     private string successMessage = string.Empty;
 
-    // Fetch the profile based on the entered ID
+
     private async Task FetchProfile()
     {
         if (int.TryParse(enteredId, out int id) && id > 0)
@@ -99,7 +99,7 @@
         }
     }
 
-    // Handle profile updates
+
     private async Task HandleSubmit()
     {
         if (profile.Id > 0)
@@ -107,7 +107,6 @@
             var response = await Http.PutAsJsonAsync($"http://localhost:5031/api/Profile/{profile.Id}", profile);
             if (response.IsSuccessStatusCode)
             {
-                // Show a success alert before resetting the form
                 await JS.InvokeVoidAsync("alert", "Profile updated successfully.");
 
                 successMessage = "Profile updated successfully.";
@@ -120,7 +119,6 @@
                 errorMessage = "Error updating profile.";
             }
 
-            // Re-render the form to reset inputs
             StateHasChanged();
         }
         else
@@ -132,7 +130,7 @@
     public class PersonProfile
     {
         public int Id { get; set; }
-        
+
         [Required(ErrorMessage = "First Name is required.")]
         [RegularExpression(@"^[a-zA-Z]+$", ErrorMessage = "First Name should be a valid string.")]
         public string? FirstName { get; set; }

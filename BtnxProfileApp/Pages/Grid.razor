@@ -52,7 +52,7 @@
 
 @code {
     private List<PersonProfile>? profiles;
-    private bool showTable = false; // Toggle variable for table visibility
+    private bool showTable = false; 
 
     public void RefreshGrid()
     {
@@ -73,16 +73,15 @@
         }
         catch (Exception ex)
         {
-            // Handle exceptions here (e.g., log error)
             Console.WriteLine($"An error occurred: {ex.Message}");
-            profiles = new List<PersonProfile>(); // Ensure profiles is not null
+            profiles = new List<PersonProfile>(); 
         }
     }
 
-    // Method to toggle the visibility of the table
+
     private void ToggleTableVisibility()
     {
-        showTable = !showTable; // Toggle the table visibility
+        showTable = !showTable;
     }
 
     public class PersonProfile
@@ -110,10 +109,10 @@
     color: #333;
 }
 
-/* Add button styles */
+
 .view-profiles-button {
-    background-color: #28a745; /* Green background */
-    color: white; /* White text */
+    background-color: #28a745;
+    color: white; 
     padding: 0.75rem 1.5rem;
     border: none;
     border-radius: 5px;
@@ -124,12 +123,12 @@
 }
 
 .view-profiles-button:hover {
-    background-color: #218838; /* Darker green on hover */
+    background-color: #218838; 
 }
 
 .table-wrapper {
     overflow: auto;
-    max-height: 500px; /* Adjust height as needed */
+    max-height: 500px; 
     width: 100%;
     margin-top: 1rem;
     position: relative;

@@ -1883,10 +1883,7 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwe
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BtnxProfileApp.props
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BtnxProfileApp.props
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\scopedcss\bundle\BtnxProfileApp.styles.css
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\scopedcss\projectbundle\BtnxProfileApp.bundle.scp.css
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\u8c8svr603.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\c6mbon2f4n.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\vt9obkxu87.gz
@@ -2100,3 +2097,4 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProf
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\refint\BtnxProfileApp.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.pdb
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\ref\BtnxProfileApp.dll
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.sourcelink.json

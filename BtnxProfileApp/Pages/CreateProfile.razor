@@ -53,7 +53,6 @@
 
     private async Task HandleSubmit()
     {
-        // Send the profile data to the server
         var response = await Http.PostAsJsonAsync("http://localhost:5031/api/Profile", profile);
         var content = await response.Content.ReadAsStringAsync();
         int id = JsonSerializer.Deserialize<User>(content)?.id ?? 0;

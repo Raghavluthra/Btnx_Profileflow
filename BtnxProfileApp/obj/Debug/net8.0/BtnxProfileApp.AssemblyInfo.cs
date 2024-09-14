@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BtnxProfileApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f6be2506c440092d7accbb06164f46b98e38692")]
 [assembly: System.Reflection.AssemblyProductAttribute("BtnxProfileApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BtnxProfileApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
