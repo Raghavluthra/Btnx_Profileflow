@@ -1,0 +1,179 @@
+@page "/createprofile"
+@using Microsoft.AspNetCore.Components.Forms
+@using System.ComponentModel.DataAnnotations
+@using System.Text.Json
+@inject HttpClient Http
+@inject NavigationManager Navigation
+@inject IJSRuntime JS
+
+<h3>Create Profile</h3>
+
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <div class="alert alert-success">
+        @successMessage
+    </div>
+}
+
+<EditForm Model="profile" OnValidSubmit="HandleSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary class="text-danger" />
+
+    <div class="form-group">
+        <label class="required">First Name:</label>
+        <InputText @bind-Value="profile.FirstName" class="form-control" />
+        <ValidationMessage For="@(() => profile.FirstName)" class="text-danger" />
+    </div>
+
+    <div class="form-group">
+        <label>Last Name:</label>
+        <InputText @bind-Value="profile.LastName" class="form-control" />
+        <ValidationMessage For="@(() => profile.LastName)" class="text-danger" />
+    </div>
+
+    <div class="form-group">
+        <label class="required">Email:</label>
+        <InputText @bind-Value="profile.Email" class="form-control" />
+        <ValidationMessage For="@(() => profile.Email)" class="text-danger" />
+    </div>
+
+    <div class="form-group">
+        <label class="required">Phone:</label>
+        <InputText @bind-Value="profile.Phone" class="form-control" />
+        <ValidationMessage For="@(() => profile.Phone)" class="text-danger" />
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Submit</button>
+</EditForm>
+
+@code {
+    [Parameter] public EventCallback OnProfileCreated { get; set; }
+    private PersonProfile profile = new PersonProfile();
+    private string successMessage = string.Empty;
+
+    private async Task HandleSubmit()
+    {
+        // Send the profile data to the server
+        var response = await Http.PostAsJsonAsync("http://localhost:5031/api/Profile", profile);
+        var content = await response.Content.ReadAsStringAsync();
+        int id = JsonSerializer.Deserialize<User>(content)?.id ?? 0;
+
+        if (response.IsSuccessStatusCode)
+        {
+            successMessage = $"Profile created successfully with ID: {id}";
+            
+            profile = new PersonProfile();
+            StateHasChanged();
+            await OnProfileCreated.InvokeAsync();
+        }
+        else
+        {
+            successMessage = "Error creating profile.";
+        }
+    }
+
+    public class PersonProfile
+    {
+        [Required(ErrorMessage = "First Name is required.")]
+        [RegularExpression(@"^[a-zA-Z]+$", ErrorMessage = "First Name should be a valid string.")]
+        public string? FirstName { get; set; }
+
+        [RegularExpression(@"^[a-zA-Z]+$", ErrorMessage = "Last Name should be a valid string.")]
+        public string? LastName { get; set; }
+
+        [Required(ErrorMessage = "Email is required.")]
+        [EmailAddress(ErrorMessage = "Invalid email address.")]
+        public string? Email { get; set; }
+
+        [Required(ErrorMessage = "Phone is required.")]
+        [RegularExpression(@"^\+?[1-9]\d{1,14}$", ErrorMessage = "Invalid phone number.")]
+        public string? Phone { get; set; }
+    }
+
+    public class User
+    {
+        public int? id { get; set; }
+        public string? FirstName { get; set; }
+        public string? LastName { get; set; }
+        public string? Email { get; set; }
+        public string? Phone { get; set; }
+    }
+}
+
+<style>
+    .form-group {
+        margin-bottom: 1.5rem;
+    }
+
+    label {
+        font-weight: bold;
+        position: relative;
+    }
+
+    .required::after {
+        content: "*";
+        color: red;
+        margin-left: 0.25rem;
+        font-size: 1.2rem;
+        position: absolute;
+        top: 0;
+        right: -1rem;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        color: #495057;
+        background-color: #fff;
+        border: 1px solid #ced4da;
+        border-radius: 0.25rem;
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    }
+
+    .form-control:focus {
+        border-color: #007bff;
+        box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
+    }
+
+    .btn {
+        display: inline-block;
+        font-weight: 400;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        user-select: none;
+        background-color: #007bff;
+        border: 1px solid transparent;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        border-radius: 0.25rem;
+        color: #fff;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .btn:hover {
+        background-color: #0056b3;
+        border-color: #004085;
+    }
+
+    .alert {
+        padding: 0.75rem 1.25rem;
+        margin-bottom: 1rem;
+        border: 1px solid transparent;
+        border-radius: 0.25rem;
+    }
+
+    .alert-success {
+        color: #155724;
+        background-color: #d4edda;
+        border-color: #c3e6cb;
+    }
+
+    .text-danger {
+        color: #dc3545;
+    }
+</style>

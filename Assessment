@@ -1,0 +1,31 @@
+ASSESSMENT
+
+
+About the Mini project -->
+
+Here’s the details of the Blazor project we’d like you to create. 
+
+1. The sample app must have at least 2 pages (views). 
+2. One page should be used to input a person’s profile data (example id, first name, last name, email address, phone, etc.)
+3. Another should be used to update the person’s profile.
+4. The pages should post their data to web api endpoints that are also within the project. 
+   You can create the webapi in standard api controllers or in minimal web apis.
+5. Since it’s not necessary to use a database, you can store the data in-memory objects.
+
+
+Create git repo 
+along with readme file and submit the link along with report for the assessment
+
+
+Report ->
+
+cors(preflight check)
+
+
+
+tasks->
+1. create page (send id in front)
+2. update page , ask id and then give details and ask for update
+3. set UI completely 
+4. if time get list button and give update and delte option there as well
+

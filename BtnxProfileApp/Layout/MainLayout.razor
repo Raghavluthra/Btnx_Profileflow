@@ -1,0 +1,240 @@
+﻿@inherits LayoutComponentBase
+@using BtnxProfileApp.Pages
+@inject IJSRuntime JS
+
+<div class="page">
+    <!-- Left section: Green and white mixed with heading and paragraph -->
+    <div class="left-section">
+        <img src="Btnx_White_Icon.png" alt="Btnx Icon" />
+        <p>Welcome to the Btnx Profile Management Application. This application allows you to create and update individual profiles. Use the middle section to fill in the forms and manage your profiles efficiently. Explore the functionalities to get started!</p>
+    </div>
+
+    <!-- Middle section: White background, forms for create and update profile -->
+    <main class="middle-section">
+        <div class="fixed-content">
+            <h1>Profile Management</h1>
+            <div class="top-row">
+                <button class="btn btn-primary" @onclick="ShowCreateProfile" title="Click to create a new profile">
+                    Create Profile
+                </button>
+                <button class="btn btn-secondary" @onclick="ShowUpdateProfile" title="Click to update an existing profile">
+                    Update Profile
+                </button>
+                <!-- Red cross button with white background to reset to initial state -->
+                <button class="btn btn-reset" @onclick="ResetPage" title="Reset to initial state">
+                    &#x274C; <!-- Unicode for red cross symbol -->
+                </button>
+            </div>
+        </div>
+
+        <div class="scrolling-content">
+            <article class="profile-content">
+                @if (showCreateProfile)
+                {
+                    <CreateProfile OnProfileCreated="ReloadGrid" />
+                }
+                else if (showUpdateProfile)
+                {
+                    <UpdateProfile OnProfileCreated="ReloadGrid" />
+                }
+                else
+                {
+                    <h3 style="text-align: center;">Please select an option to create or update a profile.</h3>
+                }
+            </article>
+        </div>
+    </main>
+
+    <aside class="right-section">
+        <Grid @ref="gridComponent" />
+    </aside>
+</div>
+
+@code {
+    private bool showCreateProfile = false;
+    private bool showUpdateProfile = false;
+
+    private Grid? gridComponent;
+
+    private void ReloadGrid()
+    {
+        // Call the RefreshGrid method in the Grid component
+        gridComponent?.RefreshGrid();
+    }
+
+    private void ShowCreateProfile()
+    {
+        showCreateProfile = true;
+        showUpdateProfile = false;
+    }
+
+    private void ShowUpdateProfile()
+    {
+        showCreateProfile = false;
+        showUpdateProfile = true;
+    }
+
+    private void ResetPage()
+    {
+        showCreateProfile = false;
+        showUpdateProfile = false;
+    }
+}
+
+<style>
+/* General Page Layout */
+.page {
+    display: flex;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+/* Left Section: Green and White Blend */
+.left-section {
+    width: 30%;
+    background: linear-gradient(135deg, #449a45 68%, #8dc63f 84%);
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    color: white;
+}
+
+.left-section p {
+    align-self: center;
+    color: white;
+    font-size: 1.5rem;
+    line-height: 1.6;
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+/* Middle Section: Main Form Area */
+.middle-section {
+    width: 40%;
+    padding: 2rem;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    overflow-y: auto;
+}
+
+/* Fixed content for heading and buttons */
+.fixed-content {
+    text-align: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 100;
+    padding-bottom: 1rem;
+    width: 100%;
+}
+
+/* Heading styling */
+.fixed-content h1 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Top row buttons */
+.top-row {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+/* Scrolling content for forms */
+.scrolling-content {
+    width: 100%;
+    padding-top: 2rem;
+    overflow-y: auto;
+}
+
+/* Right Section: Empty List Message */
+.right-section {
+    width: 30%;
+    background-color: white;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+/* Button Styles */
+.btn {
+    padding: 0.75rem 1.5rem;
+    font-size: 1.2rem;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 10px;
+}
+
+.btn-primary {
+    background-color: #4A90E2;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #357ABD;
+}
+
+.btn-secondary {
+    background-color: #50E3C2;
+    color: white;
+}
+
+.btn-secondary:hover {
+    background-color: #3DBB99;
+}
+
+/* Red Cross Button Styles with white background */
+.btn-reset {
+    background-color: white;
+    color: #E74C3C;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    border-color: white;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #E74C3C;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn-reset:hover {
+    border-color: white;
+    background-color: white;
+    color: #C0392B;
+    border-color: #C0392B;
+}
+
+/* Tooltip Styling */
+button[title] {
+    position: relative;
+}
+
+button[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: -2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    border-color: white;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+</style>
