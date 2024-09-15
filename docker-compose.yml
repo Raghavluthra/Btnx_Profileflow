@@ -1,0 +1,16 @@
+services:
+  webapi:
+    build:
+      context: .
+      dockerfile: "./WebApiProject/Dockerfile"
+    ports:
+      - "5031:80"
+
+  blazorclient:
+    build:
+      context: .
+      dockerfile: "./BtnxProfileApp/Dockerfile"
+    ports:
+      - "5057:80"
+    depends_on:
+      - webapi
