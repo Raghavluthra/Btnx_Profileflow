@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8g/9u9QNaLrBxXPF95hTvECzzekX9LwJQMw55IXEvYE=",
+  "Hash": "SqudYrEbtiRHv+uR72P5M5DxqxcJhaTrQ8Lrw0GjU2I=",
   "Source": "BtnxProfileApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.4\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.4\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.4\\staticwebassets\\AuthenticationService.js"
+    },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "BtnxProfileApp",
@@ -52,7 +71,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.6\\build\\net8.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.4\\build\\net8.0\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BtnxProfileApp.pdb",
@@ -109,7 +128,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -128,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.ljpzz9yf9n.js",
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.rp9qigv937.js",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.6.ljpzz9yf9n.js",
+      "RelativePath": "_framework/dotnet.native.8.0.8.rp9qigv937.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +166,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -166,15 +185,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.xtvfzhce1o.js",
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.u0jr76wux8.js",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.6.xtvfzhce1o.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.u0jr76wux8.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +204,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -204,7 +223,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -223,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\ragha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -281,6 +300,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Authorization.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Components.Authorization.wasm"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.wasm",
@@ -338,6 +376,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Components.Web.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -4045,6 +4102,25 @@
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.wasm"
     },
     {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\0hfm9yyk1i.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\0vm4rc4b4e.gz",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
@@ -4081,6 +4157,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Numerics.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\1236lwmy8a.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\13it9jw8j0.gz",
@@ -4347,25 +4442,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\3rzmq404ho.gz",
-      "SourceId": "BtnxProfileApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\3s5odlpwjh.gz",
@@ -4786,25 +4862,6 @@
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.wasm"
     },
     {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\6agzqzah5a.gz",
-      "SourceId": "BtnxProfileApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\6j062fgqkv.gz",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
@@ -4860,6 +4917,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\7cm6j2vpbo.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\7jhvu5vczg.gz",
@@ -5660,25 +5736,6 @@
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.wasm"
     },
     {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\e9ty49e7l3.gz",
-      "SourceId": "BtnxProfileApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\eafm1dwddn.gz",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
@@ -6135,6 +6192,25 @@
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tracing.wasm"
     },
     {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\gnypj7jk8d.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\h199bx1b3f.gz",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
@@ -6209,6 +6285,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\hkrbz1p8p8.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\i2l9v504g5.gz",
@@ -6420,25 +6515,6 @@
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.wasm"
     },
     {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\kkqogwb5tl.gz",
-      "SourceId": "BtnxProfileApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\l6zceqbuhr.gz",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
@@ -6513,25 +6589,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Principal.Windows.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\ljpzz9yf9n.gz",
-      "SourceId": "BtnxProfileApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.6.ljpzz9yf9n.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.ljpzz9yf9n.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.ljpzz9yf9n.js"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\ls9xo2lm94.gz",
@@ -6627,6 +6684,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\mcwbtfgmys.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\mdgpcq5b90.gz",
@@ -7028,6 +7104,44 @@
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Claims.wasm"
     },
     {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\qjyh2iza6i.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\r9oq6thb7c.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\rhkugc72x1.gz",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
@@ -7045,6 +7159,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ValueTuple.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\rp9qigv937.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.8.rp9qigv937.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.rp9qigv937.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.rp9qigv937.js"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\rqq15xfzlm.gz",
@@ -7180,25 +7313,6 @@
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\te30crr5ny.gz",
-      "SourceId": "BtnxProfileApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\tomcmhogu7.gz",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
@@ -7237,6 +7351,44 @@
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.wasm"
     },
     {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\tzvorb4sw5.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\u0jr76wux8.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.u0jr76wux8.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.u0jr76wux8.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.u0jr76wux8.js"
+    },
+    {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\u6rhnveza6.gz",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
@@ -7254,25 +7406,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\u8c8svr603.gz",
-      "SourceId": "BtnxProfileApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\u9xaugahsp.gz",
@@ -7503,25 +7636,6 @@
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.wasm"
     },
     {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\w7lm69lt14.gz",
-      "SourceId": "BtnxProfileApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\wixkmbpwij.gz",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
@@ -7539,25 +7653,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\wu8med0lc2.gz",
-      "SourceId": "BtnxProfileApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\wuedx7ipul.gz",
@@ -7731,25 +7826,6 @@
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Configuration.wasm"
     },
     {
-      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\xtvfzhce1o.gz",
-      "SourceId": "BtnxProfileApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.6.xtvfzhce1o.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.xtvfzhce1o.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.xtvfzhce1o.js"
-    },
-    {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\y1fpb9sbb6.gz",
       "SourceId": "BtnxProfileApp",
       "SourceType": "Computed",
@@ -7805,6 +7881,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Metadata.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\ypwzjshu4e.gz",
+      "SourceId": "BtnxProfileApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\BtnxProfileApp\\obj\\Debug\\net8.0\\compressed\\z0gihccu0o.gz",

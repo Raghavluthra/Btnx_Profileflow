@@ -5,7 +5,7 @@
 <div class="page">
     <div class="left-section">
         <img src="Btnx_White_Icon.png" alt="Btnx Icon" />
-        <p>Welcome to the Btnx Profile Management Application. This application allows you to create and update individual profiles. Use the middle section to fill in the forms and manage your profiles efficiently. Explore the functionalities to get started!</p>
+        <p>Welcome to the Btnx Profile Management Application! This platform enables you to seamlessly create and update individual profiles. The central interface allows you to easily fill out forms and manage profiles with efficiency. </p>
     </div>
 
     <main class="middle-section">
@@ -37,7 +37,7 @@
                 }
                 else
                 {
-                    <h3 style="text-align: center;">Please select an option to create or update a profile.</h3>
+                    <h3 style="text-align: center;color: gray;font-size: 1.5rem;">Please select an option to create or update a profile.</h3>
                 }
             </article>
         </div>
@@ -49,6 +49,7 @@
 </div>
 
 @code {
+     #nullable enable
     private bool showCreateProfile = false;
     private bool showUpdateProfile = false;
 
@@ -191,7 +192,7 @@
     padding: 0.5rem;
     font-size: 1.5rem;
     border-color: white;
-    border:none;
+    border:none !important;
     border-radius: 50%;
     width: 2.5rem;
     height: 2.5rem;
@@ -207,6 +208,7 @@
     border:none;
     border-color: white;
     background-color: white;
+    border:none !important;
     color: #C0392B;
     border-color: #C0392B;
 }
@@ -219,7 +221,7 @@ button[title]:hover::after {
     content: attr(title);
     position: absolute;
     bottom: -2rem;
-    border:none;
+    border:none !important;
     left: 50%;
     transform: translateX(-50%);
     background-color: #333;

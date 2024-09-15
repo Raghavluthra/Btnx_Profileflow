@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\WebAPiProject\\WebApiProject.csproj": {}
+    "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\WebApiProject\\WebApiProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\WebAPiProject\\WebApiProject.csproj": {
+    "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\WebApiProject\\WebApiProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\WebAPiProject\\WebApiProject.csproj",
+        "projectUniqueName": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\WebApiProject\\WebApiProject.csproj",
         "projectName": "WebApiProject",
-        "projectPath": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\WebAPiProject\\WebApiProject.csproj",
+        "projectPath": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\WebApiProject\\WebApiProject.csproj",
         "packagesPath": "C:\\Users\\ragha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\WebAPiProject\\obj\\",
+        "outputPath": "C:\\Users\\ragha\\Desktop\\Btnx_Profileflow\\WebApiProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ragha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

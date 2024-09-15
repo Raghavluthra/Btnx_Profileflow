@@ -1,1071 +1,22 @@
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\BtnxProfileApp.pdb
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\BtnxProfileApp.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.6.ljpzz9yf9n.js
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.6.xtvfzhce1o.js
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Diagnostics.Abstractions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Diagnostics.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Http.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.ConfigurationExtensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.Core.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Registry.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.AppContext.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Buffers.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Immutable.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.NonGeneric.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Specialized.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Annotations.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.TypeConverter.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Configuration.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Console.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Data.Common.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Data.DataSetExtensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Data.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Contracts.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Debug.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Process.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.StackTrace.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tools.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TraceSource.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tracing.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Dynamic.Runtime.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Asn1.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Tar.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Calendars.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Extensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.Brotli.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.FileSystem.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.ZipFile.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Watcher.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.IsolatedStorage.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipelines.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.AccessControl.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Expressions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Parallel.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Queryable.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Linq.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.Json.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.HttpListener.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Mail.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.NameResolution.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.NetworkInformation.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Ping.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Quic.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Requests.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Security.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.ServicePoint.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Sockets.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebClient.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebHeaderCollection.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebProxy.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.Client.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.Vectors.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ObjectModel.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.CoreLib.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.DataContractSerialization.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.Uri.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.Linq.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.DispatchProxy.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Extensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Metadata.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Reader.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Resources.ResourceManager.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Writer.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Extensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Intrinsics.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Loader.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Numerics.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Json.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Xml.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.AccessControl.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Claims.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Cng.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Csp.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Encoding.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.Windows.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.SecureString.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ServiceModel.Web.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ServiceProcess.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.CodePages.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.Extensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encodings.Web.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Json.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.RegularExpressions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Channels.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Overlapped.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Extensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Parallel.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Thread.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.ThreadPool.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Timer.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.Local.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ValueTuple.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Web.HttpUtility.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Web.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Windows.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Linq.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.ReaderWriter.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Serialization.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XDocument.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlDocument.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlSerializer.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Debug.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Extensions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Json.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.IsolatedStorage.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Linq.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Primitives.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Dynamic.Runtime.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Json.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\BtnxProfileApp.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Diagnostics.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Web.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Immutable.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.NonGeneric.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Extensions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.AccessControl.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Data.DataSetExtensions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.TypeConverter.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tracing.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.Vectors.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Intrinsics.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Requests.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Writer.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Buffers.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Quic.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Overlapped.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Tar.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Diagnostics.Abstractions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ServiceModel.Web.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.SecureString.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Web.HttpUtility.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.Core.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Numerics.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.Client.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Primitives.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ObjectModel.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.StackTrace.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TraceSource.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.Json.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.ConfigurationExtensions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.Brotli.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ValueTuple.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Contracts.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Linq.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Parallel.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Data.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.CodePages.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.RegularExpressions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Loader.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.HttpListener.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.Extensions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.Linq.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlSerializer.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\BtnxProfileApp.pdb.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Extensions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebHeaderCollection.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Cng.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Reader.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Configuration.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.ThreadPool.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encodings.Web.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlDocument.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Primitives.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Extensions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Annotations.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ServiceProcess.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Mail.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Http.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Windows.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.ReaderWriter.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tools.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.DispatchProxy.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Registry.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Primitives.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.Uri.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.6.ljpzz9yf9n.js.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Claims.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebProxy.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Process.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.ZipFile.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Xml.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.NetworkInformation.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Primitives.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.Primitives.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.CoreLib.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.NameResolution.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Calendars.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Resources.ResourceManager.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Queryable.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Ping.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Asn1.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Specialized.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipelines.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Security.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.ServicePoint.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebClient.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Channels.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.DataContractSerialization.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.FileSystem.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Parallel.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XDocument.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.AppContext.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Sockets.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Serialization.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Csp.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Metadata.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Timer.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.Local.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Console.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Data.Common.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Primitives.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Expressions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Watcher.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.AccessControl.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.6.xtvfzhce1o.js.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Primitives.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.Windows.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Encoding.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Thread.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.wasm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\BtnxProfileApp.staticwebassets.runtime.json
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\BtnxProfileApp.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\BtnxProfileApp.pdb
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.JSInterop.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.Pipelines.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.CSharp.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.VisualBasic.Core.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.VisualBasic.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Win32.Primitives.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Win32.Registry.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.AppContext.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Buffers.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Collections.Concurrent.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Collections.Immutable.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Collections.NonGeneric.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Collections.Specialized.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Collections.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.ComponentModel.Annotations.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.ComponentModel.DataAnnotations.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.ComponentModel.EventBasedAsync.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.ComponentModel.Primitives.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.ComponentModel.TypeConverter.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.ComponentModel.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Configuration.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Console.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Core.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Data.Common.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Data.DataSetExtensions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Data.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Diagnostics.Contracts.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Diagnostics.Debug.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Diagnostics.FileVersionInfo.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Diagnostics.Process.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Diagnostics.StackTrace.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Diagnostics.TextWriterTraceListener.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Diagnostics.Tools.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Diagnostics.TraceSource.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Diagnostics.Tracing.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Drawing.Primitives.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Drawing.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Dynamic.Runtime.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Formats.Asn1.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Formats.Tar.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Globalization.Calendars.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Globalization.Extensions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Globalization.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.Compression.Brotli.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.Compression.FileSystem.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.Compression.ZipFile.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.Compression.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.FileSystem.AccessControl.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.FileSystem.DriveInfo.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.FileSystem.Primitives.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.FileSystem.Watcher.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.FileSystem.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.IsolatedStorage.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.MemoryMappedFiles.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.Pipes.AccessControl.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.Pipes.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.UnmanagedMemoryStream.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.IO.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Linq.Expressions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Linq.Parallel.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Linq.Queryable.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Linq.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Memory.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.Http.Json.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.Http.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.HttpListener.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.Mail.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.NameResolution.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.NetworkInformation.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.Ping.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.Primitives.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.Quic.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.Requests.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.Security.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.ServicePoint.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.Sockets.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.WebClient.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.WebHeaderCollection.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.WebProxy.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.WebSockets.Client.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.WebSockets.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Net.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Numerics.Vectors.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Numerics.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.ObjectModel.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Private.DataContractSerialization.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Private.Uri.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Private.Xml.Linq.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Private.Xml.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Reflection.DispatchProxy.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Reflection.Emit.ILGeneration.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Reflection.Emit.Lightweight.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Reflection.Emit.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Reflection.Extensions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Reflection.Metadata.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Reflection.Primitives.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Reflection.TypeExtensions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Reflection.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Resources.Reader.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Resources.ResourceManager.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Resources.Writer.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.CompilerServices.VisualC.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.Extensions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.Handles.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.InteropServices.JavaScript.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.InteropServices.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.Intrinsics.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.Loader.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.Numerics.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.Serialization.Formatters.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.Serialization.Json.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.Serialization.Primitives.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.Serialization.Xml.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.Serialization.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Runtime.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.AccessControl.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Claims.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Cryptography.Algorithms.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Cryptography.Cng.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Cryptography.Csp.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Cryptography.Encoding.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Cryptography.OpenSsl.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Cryptography.Primitives.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Cryptography.X509Certificates.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Cryptography.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Principal.Windows.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.Principal.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.SecureString.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Security.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.ServiceModel.Web.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.ServiceProcess.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Text.Encoding.Extensions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Text.Encoding.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Text.Json.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Text.RegularExpressions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Threading.Channels.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Threading.Overlapped.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Threading.Tasks.Dataflow.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Threading.Tasks.Extensions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Threading.Tasks.Parallel.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Threading.Tasks.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Threading.Thread.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Threading.ThreadPool.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Threading.Timer.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Threading.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Transactions.Local.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Transactions.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.ValueTuple.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Web.HttpUtility.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Web.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Windows.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Xml.Linq.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Xml.ReaderWriter.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Xml.Serialization.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Xml.XDocument.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Xml.XPath.XDocument.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Xml.XPath.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Xml.XmlDocument.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Xml.XmlSerializer.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Xml.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\WindowsBase.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\mscorlib.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\netstandard.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\System.Private.CoreLib.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\dotnet.js
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\dotnet.js.map
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\dotnet.native.js
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\dotnet.native.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\dotnet.runtime.js
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\dotnet.runtime.js.map
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\icudt_CJK.dat
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\icudt_EFIGS.dat
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\bin\Debug\net8.0\icudt_no_CJK.dat
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.csproj.AssemblyReference.cache
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.AssemblyInfoInputs.cache
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.AssemblyInfo.cs
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.csproj.CoreCompileInputs.cache
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Web.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.WebAssembly.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Metadata.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Abstractions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Binder.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.FileExtensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Json.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.DependencyInjection.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.DependencyInjection.Abstractions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Diagnostics.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Diagnostics.Abstractions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileProviders.Abstractions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileProviders.Physical.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileSystemGlobbing.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Http.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Logging.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Logging.Abstractions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Options.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Options.ConfigurationExtensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.JSInterop.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.JSInterop.WebAssembly.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.Pipelines.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.CSharp.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.VisualBasic.Core.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.VisualBasic.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Win32.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Win32.Registry.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.AppContext.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Buffers.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Collections.Concurrent.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Collections.Immutable.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Collections.NonGeneric.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Collections.Specialized.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Collections.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.ComponentModel.Annotations.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.ComponentModel.DataAnnotations.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.ComponentModel.EventBasedAsync.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.ComponentModel.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.ComponentModel.TypeConverter.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.ComponentModel.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Configuration.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Console.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Core.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Data.Common.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Data.DataSetExtensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Data.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Diagnostics.Contracts.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Diagnostics.Debug.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Diagnostics.DiagnosticSource.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Diagnostics.FileVersionInfo.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Diagnostics.Process.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Diagnostics.StackTrace.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Diagnostics.TextWriterTraceListener.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Diagnostics.Tools.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Diagnostics.TraceSource.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Diagnostics.Tracing.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Drawing.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Drawing.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Dynamic.Runtime.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Formats.Asn1.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Formats.Tar.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Globalization.Calendars.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Globalization.Extensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Globalization.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.Compression.Brotli.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.Compression.FileSystem.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.Compression.ZipFile.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.Compression.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.FileSystem.AccessControl.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.FileSystem.DriveInfo.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.FileSystem.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.FileSystem.Watcher.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.FileSystem.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.IsolatedStorage.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.MemoryMappedFiles.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.Pipes.AccessControl.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.Pipes.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.UnmanagedMemoryStream.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.IO.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Linq.Expressions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Linq.Parallel.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Linq.Queryable.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Linq.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Memory.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.Http.Json.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.Http.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.HttpListener.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.Mail.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.NameResolution.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.NetworkInformation.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.Ping.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.Quic.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.Requests.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.Security.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.ServicePoint.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.Sockets.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.WebClient.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.WebHeaderCollection.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.WebProxy.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.WebSockets.Client.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.WebSockets.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Net.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Numerics.Vectors.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Numerics.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.ObjectModel.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Private.DataContractSerialization.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Private.Uri.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Private.Xml.Linq.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Private.Xml.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Reflection.DispatchProxy.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Reflection.Emit.ILGeneration.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Reflection.Emit.Lightweight.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Reflection.Emit.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Reflection.Extensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Reflection.Metadata.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Reflection.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Reflection.TypeExtensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Reflection.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Resources.Reader.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Resources.ResourceManager.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Resources.Writer.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.CompilerServices.Unsafe.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.CompilerServices.VisualC.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.Extensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.Handles.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.InteropServices.JavaScript.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.InteropServices.RuntimeInformation.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.InteropServices.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.Intrinsics.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.Loader.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.Numerics.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Formatters.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Json.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Xml.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.Serialization.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Runtime.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.AccessControl.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Claims.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Cryptography.Algorithms.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Cryptography.Cng.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Cryptography.Csp.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Cryptography.Encoding.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Cryptography.OpenSsl.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Cryptography.Primitives.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Cryptography.X509Certificates.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Cryptography.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Principal.Windows.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.Principal.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.SecureString.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Security.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.ServiceModel.Web.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.ServiceProcess.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Text.Encoding.CodePages.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Text.Encoding.Extensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Text.Encoding.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Text.Encodings.Web.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Text.Json.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Text.RegularExpressions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Threading.Channels.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Threading.Overlapped.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Threading.Tasks.Dataflow.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Threading.Tasks.Extensions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Threading.Tasks.Parallel.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Threading.Tasks.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Threading.Thread.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Threading.ThreadPool.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Threading.Timer.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Threading.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Transactions.Local.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Transactions.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.ValueTuple.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Web.HttpUtility.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Web.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Windows.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Xml.Linq.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Xml.ReaderWriter.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Xml.Serialization.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Xml.XDocument.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Xml.XPath.XDocument.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Xml.XPath.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Xml.XmlDocument.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Xml.XmlSerializer.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Xml.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\WindowsBase.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\mscorlib.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\netstandard.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\System.Private.CoreLib.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\BtnxProfileApp.wasm
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\blazor.build.boot-extension.json
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\blazor.boot.json
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets\msbuild.BtnxProfileApp.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BtnxProfileApp.props
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BtnxProfileApp.props
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BtnxProfileApp.props
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\scopedcss\bundle\BtnxProfileApp.styles.css
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\scopedcss\projectbundle\BtnxProfileApp.bundle.scp.css
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\u8c8svr603.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\qpd18vx33e.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\euspzsjud5.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\x9wdoia688.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\t2xr8qa12n.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\hi0j3eur1w.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\n8qa59gemq.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\lzb92vl2g5.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3bvvb3ad0y.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\9f1383n0na.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\f0if8xtben.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\s58d0yrr27.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\m8sq59p7fy.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\xt88063ess.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\280i9kjsdo.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\6dtut8wh24.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\o7mlix9nkj.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\em3f06d6um.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ncjbqqc6wv.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\hu0dwgr0gw.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\xs1id2obns.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\gha1x5sfsj.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\nfv9ec248k.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\9snmo0sy6j.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\1alqnbfy81.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\cqik5c8aw1.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\9yla0jmafh.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\r2dybjv9dx.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\4gkm5teeht.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\7gqp8pe3vc.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\lvqe5dkv6p.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\gdjv18rv0o.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\k3x3bia9qi.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\udqtmc3dsx.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\5gf8rygcav.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\tj20a0dp99.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\2zwdbp8aka.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3bhtbqrmx6.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\qip0k2k3fb.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\lzhq2a6irl.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\hc1blk5wt4.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\gq4fme7o0c.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\r6jmyp4gu7.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\xetm7uv1cn.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3z3yn1n78j.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\rsc0z782gp.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\eklrxf53uj.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\w378o3fh3c.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\5mt994er9k.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\wafb4ys0kj.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3oq8gn90dm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ann4958jvo.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\a9ed9mtzj2.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\03tqgs4zb3.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\rjzx76nexp.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\4hseicnwl5.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\msttojajn5.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\9g7zx77bt0.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\rxtywqmwrn.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\j7q6rx98wh.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\9hdf2sb0ao.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\4bzydob0sw.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ogb98izu4r.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\etem8017p5.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\1g09i1ltdh.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\q6jhaqfqb5.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\68c6qoy7mv.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\pj6ndv2904.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\d7qkufmrfz.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\wb9600qm99.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\a40dtn0zt8.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\tk2v0rgpwz.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\n6fmxtyysh.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\es30jlt4yu.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\tja9jjyxvh.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ivce3sou07.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ky2ls8i98h.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\xh5h0zn48k.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\oq6xw6hgdi.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\0nu0mhjuzx.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\rileq5law8.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\xtouodd7pe.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\jmrzgoarpi.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\wfsp0959dx.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\qdti6bh8pv.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\xevzrjvfjz.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\trdd0fch9f.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\q1pwl98nli.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\aclqizfhlw.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\pjbn9zv9mv.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\9kkysbbnhf.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\psmlnjxhr7.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\bowtm9ofdw.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\hlyhfxqc2f.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\pe6k6i85nq.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ni9uyji9o1.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\q2ihe7ka7f.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\nzmh31whao.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\5rztkezchs.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\52rx23a0i5.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\r3lxyyayra.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\rrpzqli6i2.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\uejo7mq9mv.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\s1d671ywnf.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\dfx0epexff.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\msezzvnshy.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\7vvnvyndgo.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\9v89o3da8n.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\tkk81x5xvg.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\4h4mkldvu3.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\661kbfb5oh.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\97gzenx2ih.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\sr041u00hv.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\l2bvtet4c5.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\c5ph04clki.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\8xbrafub41.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\j86ujd3udm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\g43c20yv7a.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\0kxlkyuzid.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ezd0l64ugr.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\gdnd3z70ig.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\v2qhbngs6n.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\8pbwu3ey5u.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3mrbdteon8.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\buuzy6z8yl.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\eixdqgn0h7.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\pwqexzyv1t.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\56g7kea0or.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\x668m9v8wx.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\c5tt2le4k4.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3icrnp1c8t.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\20xwbjp5ug.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\n2z3g6ga2v.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\640v613oug.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ffc3o5ee98.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\4xbllrj1wz.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\bhxr1y0op0.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\7mmm5f2oo5.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\dng619zpsi.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\0b3wm757iv.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\95189vmhhn.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\nfblqr7snn.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\zu87wl3u83.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\75fuqmr8es.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3oggeam5qq.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\lops24ioi4.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\iuzgcsat46.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\dm4h6w7tlz.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\uxynieb68r.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\z4ptw4jjfd.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\tii9prbava.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\xuel72tmd7.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\d8lpp6j05i.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\8u0wtj8nry.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\yd8zpymzma.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\5udi03ywqm.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\6t65sb09ub.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3hey9xge5p.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\6ii3sshzu1.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\hctvkf27cc.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\atyaihi2by.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\c521hjjphg.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\88ysbc2wgz.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\gb8l3tedsf.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\1iqli11ags.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\b3103psjme.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\sc1bjhtn0u.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\606vt0uz0v.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3nzgklorm2.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\03x4wi5x5t.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\akcytzuhaw.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\qaah0zth14.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\zohnqc25z8.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\fb327plugy.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\v51h5tewox.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\qtuil0npae.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\vr1qsa9iz8.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\l0ipuiqnm6.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\a7xuiueen7.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\77e413fkk7.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\2m1ecdb9rw.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ihl5vblu6y.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\153s2hqavz.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ip1m8fg2wf.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\usvb8sklqd.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\u77gku8v9f.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\1u3tsao8or.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\433486tfwn.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\gbnuzlypzu.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\c6w5zmuswx.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\8awtptmpl1.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\yrwt1us413.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\851i630fjc.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\0kr5gopgmr.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\2560fkl96i.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\orj2us85vc.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3rzmq404ho.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\kkqogwb5tl.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ljpzz9yf9n.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\w7lm69lt14.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\xtvfzhce1o.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\te30crr5ny.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\e9ty49e7l3.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\6agzqzah5a.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\wu8med0lc2.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\1sm6n9ffkn.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\cf5y2walby.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\fveyapdap7.gz
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProf.6B28C1A6.Up2Date
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\refint\BtnxProfileApp.dll
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.pdb
-C:\Users\ragha\Desktop\BTNX Profileflow\BtnxProfileApp\obj\Debug\net8.0\ref\BtnxProfileApp.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\BtnxProfileApp.pdb
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\BtnxProfileApp.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.6.ljpzz9yf9n.js
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.8.rp9qigv937.js
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.6.xtvfzhce1o.js
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.8.u0jr76wux8.js
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.wasm
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm
@@ -1261,8 +212,10 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebClient.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TraceSource.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Numerics.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Linq.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Timer.wasm.gz
@@ -1277,7 +230,6 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.wasm.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.Vectors.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Extensions.wasm.gz
@@ -1300,10 +252,10 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.Extensions.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Encoding.wasm.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlSerializer.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.CodePages.wasm.gz
@@ -1346,7 +298,6 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Channels.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Primitives.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.Json.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.ThreadPool.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.wasm.gz
@@ -1371,10 +322,12 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.Core.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tracing.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ServiceModel.Web.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.Brotli.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm.gz
@@ -1386,17 +339,16 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.SecureString.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.Uri.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.wasm.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.IsolatedStorage.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Expressions.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.Windows.wasm.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.6.ljpzz9yf9n.js.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.FileSystem.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Csp.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlDocument.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Linq.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.Client.wasm.gz
@@ -1418,7 +370,10 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.Local.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Claims.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ValueTuple.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.8.rp9qigv937.js.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\BtnxProfileApp.wasm.gz
@@ -1426,11 +381,11 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.Sockets.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.ConfigurationExtensions.wasm.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Tar.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.8.u0jr76wux8.js.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.wasm.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Loader.wasm.gz
@@ -1443,9 +398,7 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wasm.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.wasm.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Collections.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.wasm.gz
@@ -1455,24 +408,37 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Watcher.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Process.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Configuration.wasm.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.6.xtvfzhce1o.js.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.HttpListener.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Metadata.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Net.NetworkInformation.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XDocument.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.ReaderWriter.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Primitives.wasm.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\publish\publish\web.config
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\publish\web.config
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\web.config
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\publish\publish\publish\wwwroot\sample-data\weather.json
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\publish\publish\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\publish\publish\wwwroot\sample-data\weather.json
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\publish\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\publish\wwwroot\sample-data\weather.json
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\wwwroot\sample-data\weather.json
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\publish\wwwroot\_framework\blazor.boot.json
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\BtnxProfileApp.staticwebassets.runtime.json
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\BtnxProfileApp.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\BtnxProfileApp.pdb
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Authorization.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -1678,11 +644,14 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProf
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.AssemblyInfo.cs
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.csproj.CoreCompileInputs.cache
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.sourcelink.json
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Authorization.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Web.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.WebAssembly.wasm
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Metadata.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.wasm
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Abstractions.wasm
@@ -1884,12 +853,14 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwe
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BtnxProfileApp.props
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\scopedcss\bundle\BtnxProfileApp.styles.css
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\u8c8svr603.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\hkrbz1p8p8.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\c6mbon2f4n.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\vt9obkxu87.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\tzvorb4sw5.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\wuedx7ipul.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\35kt3qtu75.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\psw7u7y8kf.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\qjyh2iza6i.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\0vm4rc4b4e.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ly2dajw1ew.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ctllthap8g.gz
@@ -2080,15 +1051,15 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compress
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\sbehanztvw.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\pfu8ny9u9r.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3yp6frulgz.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\3rzmq404ho.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\kkqogwb5tl.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ljpzz9yf9n.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\w7lm69lt14.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\xtvfzhce1o.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\te30crr5ny.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\e9ty49e7l3.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\6agzqzah5a.gz
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\wu8med0lc2.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\mcwbtfgmys.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\1236lwmy8a.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\rp9qigv937.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\gnypj7jk8d.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\u0jr76wux8.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\r9oq6thb7c.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\ypwzjshu4e.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\0hfm9yyk1i.gz
+C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\7cm6j2vpbo.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\siuwh9z6gn.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\cf5y2walby.gz
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\compressed\fveyapdap7.gz
@@ -2097,4 +1068,3 @@ C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProf
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\refint\BtnxProfileApp.dll
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.pdb
 C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\ref\BtnxProfileApp.dll
-C:\Users\ragha\Desktop\Btnx_Profileflow\BtnxProfileApp\obj\Debug\net8.0\BtnxProfileApp.sourcelink.json

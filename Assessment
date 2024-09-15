@@ -23,9 +23,9 @@ cors(preflight check)
 
 
 
-tasks->
-1. create page (send id in front)
-2. update page , ask id and then give details and ask for update
-3. set UI completely 
-4. if time get list button and give update and delte option there as well
-
+Basic Git -
+Navigate to the project directory.
+Check the status with git status
+Add changes using git add .
+Commit changes with git commit -m "message".
+Push changes with git push origin master.

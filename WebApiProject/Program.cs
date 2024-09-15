@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
@@ -12,8 +11,8 @@ builder.Services.AddControllers();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin",
-        builder => builder
-            .WithOrigins("http://localhost:5057")  
+        policyBuilder => policyBuilder
+            .WithOrigins("http://localhost:5057")  // Ensure this matches the requesting origin
             .AllowAnyHeader()
             .AllowAnyMethod());
 });
