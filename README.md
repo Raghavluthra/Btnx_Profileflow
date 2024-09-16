@@ -73,13 +73,17 @@ cd BTNX_ProfileFlow
 ```bash
 ## TERMINAL 1
 # Run this from the BTNX_ProfileFlow directory
-cd WebApiProject && dotnet run
+cd WebApiProject
+dotnet clean
+dotnet run
 ```
 3. **Run the Blazor WebAssembly App**: Start the Blazor client app, which will be served on `localhost:5057`.
 ```bash
 ## TERMINAL 2
 # Run this from the BTNX_ProfileFlow directory
-cd BtnxProfileApp && dotnet run BtnxProfileApp.csproj
+cd BtnxProfileApp
+dotnet clean BtnxProfileApp.csproj
+dotnet run BtnxProfileApp.csproj
 ```
 
 Once both projects are running, the front-end will communicate with the back-end API to manage profile data.
