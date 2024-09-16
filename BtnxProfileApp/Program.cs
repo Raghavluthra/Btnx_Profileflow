@@ -11,6 +11,6 @@ builder.RootComponents.Add<App>("#app");  // Ensure the App component exists and
 builder.RootComponents.Add<HeadOutlet>("head::after");  // Ensure the HeadOutlet component is available
 
 // Configure HttpClient to communicate with the Web API
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:5057/") });
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("http://localhost:5057/") });
 
 await builder.Build().RunAsync();
